@@ -1,4 +1,5 @@
 # 可以采用牛顿迭代公式求一个数的平方根与立方根
+# https://blog.csdn.net/junbujianwpl/article/details/78024852
 
 n = float(input())
 x = 1.0
